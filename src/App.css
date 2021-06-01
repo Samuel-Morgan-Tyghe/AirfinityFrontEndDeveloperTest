@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+  */
+
+  body {
+    display: flex;
+    justify-content: center;
+  }
+  table{
+    margin-top : 50px;
+  }
